@@ -4,5 +4,9 @@
     <string name="app_name">MadLibsSwag</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="title">Welcome to SwagLibs</string>
+    <string name="start">Start Game</string>
+    <string name="credit">Credits</string>
+    <string name="choose">Choose a Game</string>
 
 </resources>
