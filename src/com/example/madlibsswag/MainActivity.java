@@ -1,6 +1,8 @@
 package com.example.madlibsswag;
 
+
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
@@ -21,7 +23,9 @@ public class MainActivity extends Activity {
 	
 	
 	public void startclick(View v){
-		Log.i("d", "worked");
+		Log.i("startbutton", "worked");
+		Intent intent = new Intent(getBaseContext(), ChooseActivity.class);
+		startActivity(intent);
 		
 		
 	}
