@@ -26,6 +26,10 @@
             android:name="com.example.madlibsswag.ChooseActivity"
             android:label="@string/app_name" >
              </activity>
+              <activity
+            android:name="com.example.madlibsswag.FillActivity"
+            android:label="@string/app_name" >
+             </activity>
     </application>
 
 </manifest>
