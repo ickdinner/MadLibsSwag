@@ -18,8 +18,8 @@ public class ChooseActivity extends Activity {
 	public void game1c(View v){
 		
 		Intent intent = new Intent(getBaseContext(), FillActivity.class);
-//		intent.putExtra("wordtype", "Verbs");
-//		intent.putExtra("count", 5);
+		intent.putExtra("wordtype", "Verbs");
+		intent.putExtra("count", 5);
 		startActivity(intent);
 		
 		
