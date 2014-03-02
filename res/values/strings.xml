@@ -8,5 +8,6 @@
     <string name="start">Start Game</string>
     <string name="credit">Credits</string>
     <string name="choose">Choose a Game</string>
+    <string name="next">Next</string>
 
 </resources>
